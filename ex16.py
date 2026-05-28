@@ -18,3 +18,4 @@ else:
 print(f"o valor digitado foi {valor}")
 print("teste")
 print("teste 2")
+print("teste3")
